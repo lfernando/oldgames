@@ -1,7 +1,7 @@
 # oldgames
 
 Oldgames é um aplicativo, que funciona como uma uma galeria para abrir jogos antigos através de vários emuladores diferentes. 
-Futaramente será lançada a opção para baixar jogos via torrent.
+Futuramente será lançada a opção para baixar jogos via torrent.
 
 Atualmente só tem suporte para Windows.
 
