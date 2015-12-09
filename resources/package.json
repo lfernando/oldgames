@@ -1,0 +1,12 @@
+{
+  "name": "old-games",
+  "version": "0.0.1",
+  "main": "index.html",
+  "window":{
+  	"toolbar": true,
+  	"width": 1280,
+    "height": 768,
+    "min_width": 800,
+    "min_height": 500
+  }
+}
